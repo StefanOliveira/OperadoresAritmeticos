@@ -58,7 +58,11 @@ public class ExCasting {
 
         System.out.println("b1: " + b1);
 
+        int i = 3;
 
+        int i5 = 10 - 5 * 2 + --i;
+
+        System.out.println(i5);
 
     }
 
